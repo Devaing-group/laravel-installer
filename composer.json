@@ -1,0 +1,21 @@
+{
+    "name": "devaing/laravel-installer",
+    "description": "Powerful RestAPI plugin for Laravel framework",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.6.*|5.7.*|5.8.*|6.*|7.*|8.*|9.*|10.*|^11.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devaing\\LaravelInstaller\\": "src",
+            "Devaing\\LaravelInstaller\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ang Vil",
+            "email": "b.othmane@devaing.com"
+        }
+    ]
+}
